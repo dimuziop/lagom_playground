@@ -1,5 +1,6 @@
 package dev.dimuzio.bank.account;
 
+import dev.dimuzio.bank.account.application.AccountServiceImpl;
 import org.junit.Test;
 
 import java.util.concurrent.TimeUnit;

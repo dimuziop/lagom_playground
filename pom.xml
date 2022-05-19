@@ -12,6 +12,7 @@
     <modules>
         <module>bank-account-api</module>
         <module>bank-account-impl</module>
+        <module>client</module>
     </modules>
 
     <build>
